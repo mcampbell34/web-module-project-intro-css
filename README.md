@@ -21,7 +21,7 @@ The styles in your [design file](/design/desktop.jpg) include bright colors and 
 
 Follow these steps to set up and work on your project:
 
-- [ ] Create a forked copy of this project.
+- [X ] Create a forked copy of this project.
 - [ ] Add your Team Lead as collaborator on Github.
 - [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
 - [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
@@ -35,9 +35,9 @@ Once your repository is set up, practice what you learned today to style the sit
 - [ ] Link your CSS stylesheet in the `index.html` and impliment a CSS reset 
 - [ ] Markup html semantically, such that it can be styled according to the given desktop image
 - [ ] Color the background of items in the navigation bar and footer with the following colors:
-  - [ ] Plan your Visit: `#FF764E`
-  - [ ] Learn About the Park: `#5ED3EB`
-  - [ ] Get Involved: `#FFCD69`
+  - [X ] Plan your Visit: `#FF764E`
+  - [ X] Learn About the Park: `#5ED3EB`
+  - [ X] Get Involved: `#FFCD69`
 - [ ] Change all font colors and styles according to design file
   - [ ] Yosemite Park Guide font is called Chelsea Market and can be found on [google fonts](https://fonts.google.com/specimen/Chelsea+Market)
   - [ ] All other text is Roboto Mono, also available on [google fonts](https://fonts.google.com/specimen/Roboto+Mono)
